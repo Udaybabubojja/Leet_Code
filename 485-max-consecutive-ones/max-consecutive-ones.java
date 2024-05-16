@@ -8,7 +8,6 @@ class Solution {
             }
             else c++;
         }
-        m=Math.max(m,c);
-        return m;
+        return Math.max(m,c);
     }
 }
